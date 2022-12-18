@@ -11,6 +11,7 @@ import { Provider } from 'react-redux';
 
 initializeApp(firebaseConfig)
 
+
 ReactDOM.render(
   <React.StrictMode>
     <Provider store={store}>
